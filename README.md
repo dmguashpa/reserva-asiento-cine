@@ -2,7 +2,7 @@
 
 ## Datos del estudiante
 
-- **Nombre:** [ESCRIBA AQUI SU NOMBRE COMPLETO]
+- **Nombre:** Diego Martín Guashpa Bonilla
 - **Asignatura:** Fundamentos de Programación
 - **Semana:** 12
 - **Unidad:** Unidad 3. Arreglos N-Dimensionales
